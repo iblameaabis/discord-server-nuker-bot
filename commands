@@ -1,0 +1,6 @@
+PREFIX - !
+
+!nuke - nukes the server fully
+!banall - bans all the members from the server
+!kickall - kicks all the members from the server
+!unbanall - unbans everyone from the server
